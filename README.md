@@ -1,4 +1,4 @@
-# Khulnasoft Schemas
+# KhulnaSoft Schemas
 
 Schemas used across many Khulnasoft packages to validating config files, requests to APIs, and more.
 
